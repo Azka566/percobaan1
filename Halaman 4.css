@@ -1,0 +1,114 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .macbook-pro-wrapper {
+  background-color: #ffffff;
+  width: 1728px;
+  height: 1117px;
+}
+
+.macbook-pro .overlap-group-wrapper {
+  height: 1117px;
+  background-color: #ffffff;
+}
+
+.macbook-pro .overlap-group {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+  background-image: url(./img/anime-2-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 1017px;
+  left: 231px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .div {
+  position: absolute;
+  top: 1017px;
+  left: 590px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-2 {
+  position: absolute;
+  top: 1017px;
+  left: 968px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-3 {
+  position: absolute;
+  top: 1017px;
+  left: 1302px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff0000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .about-resume {
+  position: absolute;
+  top: 88px;
+  left: 293px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-4 {
+  position: absolute;
+  width: 756px;
+  top: 313px;
+  left: 899px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #f900ff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .my-photo {
+  position: absolute;
+  width: 350px;
+  height: 745px;
+  top: 186px;
+  left: 261px;
+  object-fit: cover;
+}
